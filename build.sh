@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo " ---- Build Cosmos ----"
+echo " ---- Build Cosmos naude ----"
 
 rm -rf build
 
