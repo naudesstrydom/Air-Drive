@@ -91,11 +91,6 @@ It is becoming an important **threat to you**. Managing servers, applications an
 
 That is the issue Cosmos Server is trying to solve: by providing a secure and robust way to run your self-hosted applications, **you can be sure that your data is safe** and that you can access it without having to worry about your security.
 
-Here's a simple example of how Cosmos can help you:
-
-![diag_SN](./diag_SN2.png)
-
-Another example:
 
 ![diag_SN](./diag_SN.png)
 
