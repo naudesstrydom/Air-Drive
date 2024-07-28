@@ -1,9 +1,17 @@
 <p align="center">
   <br/>
   <br/>
- 
+  <a target="_blank" href="https://cosmos-cloud.io/">
     <img height="44px" src="https://raw.githubusercontent.com/azukaar/Cosmos-Server/master/icons/ws.png" />
- 
+  </a>
+  <a target="_blank" href="https://cosmos-cloud.io/doc">
+    <img height="44px" src="https://raw.githubusercontent.com/azukaar/Cosmos-Server/master/icons/doc.png" />
+  </a>
+  <a target="_blank" href="https://cosmos-cloud.io/cosmos-ui">
+    <img height="44px" src="https://raw.githubusercontent.com/azukaar/Cosmos-Server/master/icons/demo.png" />
+  </a>
+  <br/>
+  <br/>
 </p>
 
 
