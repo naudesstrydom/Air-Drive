@@ -24,8 +24,6 @@
 
 ---
 
-[![DiscordLink](https://img.shields.io/discord/1083875833824944188?label=Discord&logo=Discord&style=flat-square)](https://discord.gg/PwMWwsrwHA) ![CircleCI](https://img.shields.io/circleci/build/github/azukaar/Cosmos-Server?token=6efd010d0f82f97175f04a6acf2dae2bbcc4063c&style=flat-square) [![Docker Pulls](https://img.shields.io/docker/pulls/azukaar/cosmos-server?style=flat-square)](https://hub.docker.com/r/azukaar/cosmos-server)
-
 
 ☁️ Cosmos is the most secure and easy way to self-host a Home Server. It acts as a secure gateway to your application, as well as a server manager. It aims to solve the increasingly worrying problem of vulnerable self-hosted applications and personal servers.
 
