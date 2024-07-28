@@ -75,14 +75,6 @@ Cosmos is:
  
 And a **lot more planned features** are coming!
 
-# What are the differences with other alternatives?
-
-Cosmos has a few key differences with other alternatives such as YunoHost, Unraid, etc...
-
-<p align="center" style="color:grey">
-  <img src="./compare.png" /><br />
-  * Only containers created with their UI, with no customization, ** No alerts
-</p>
 
 
 * **Security**: Cosmos has a unique strong focus on securing your application with exclusive features such as the smart-shield. It has 2FA, OpenID, anti-DDOS, and other security features built-in. It also has a strong focus on privacy, with the latest encryption methods and a strong focus on data protection. Unlike any other solutions, it assumes the software you run are not trustworthy, and protects you from them.
