@@ -1,26 +1,8 @@
-<p align="center">
-  <br/>
-  <br/>
-  <a target="_blank" href="https://cosmos-cloud.io/">
-    <img height="44px" src="https://raw.githubusercontent.com/azukaar/Cosmos-Server/master/icons/ws.png" />
-  </a>
-  <a target="_blank" href="https://cosmos-cloud.io/doc">
-    <img height="44px" src="https://raw.githubusercontent.com/azukaar/Cosmos-Server/master/icons/doc.png" />
-  </a>
-  <a target="_blank" href="https://cosmos-cloud.io/cosmos-ui">
-    <img height="44px" src="https://raw.githubusercontent.com/azukaar/Cosmos-Server/master/icons/demo.png" />
-  </a>
-  <br/>
-  <br/>
-</p>
-
-
-
 ![banner](./banner.jpg)
 
 
 
-☁️ Cosmos is the most secure and easy way to self-host a Home Server. It acts as a secure gateway to your application, as well as a server manager. It aims to solve the increasingly worrying problem of vulnerable self-hosted applications and personal servers.
+AIRDRIVE is the most secure and easy way to self-host a Home Server. It acts as a secure gateway to your application, as well as a server manager. It aims to solve the increasingly worrying problem of vulnerable self-hosted applications and personal servers.
 
 <p align="center">
   <br/>
