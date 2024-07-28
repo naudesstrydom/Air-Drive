@@ -1,4 +1,13 @@
-(Logo.png)
+<p align="center">
+  <br/>
+  <br/>
+ 
+    <img height="44px" src="https://raw.githubusercontent.com/azukaar/Cosmos-Server/master/icons/ws.png" />
+ 
+</p>
+
+
+
 ![banner](./banner.jpg)
 
 
